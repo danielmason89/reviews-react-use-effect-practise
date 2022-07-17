@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/danielmason89/reviews-react-use-effect-practise.git/static/css/main.684b11a9.chunk.css",
-    "main.js": "/danielmason89/reviews-react-use-effect-practise.git/static/js/main.03b7e9a0.chunk.js",
-    "main.js.map": "/danielmason89/reviews-react-use-effect-practise.git/static/js/main.03b7e9a0.chunk.js.map",
-    "runtime-main.js": "/danielmason89/reviews-react-use-effect-practise.git/static/js/runtime-main.221fab4c.js",
-    "runtime-main.js.map": "/danielmason89/reviews-react-use-effect-practise.git/static/js/runtime-main.221fab4c.js.map",
-    "static/js/2.bdbc782b.chunk.js": "/danielmason89/reviews-react-use-effect-practise.git/static/js/2.bdbc782b.chunk.js",
-    "static/js/2.bdbc782b.chunk.js.map": "/danielmason89/reviews-react-use-effect-practise.git/static/js/2.bdbc782b.chunk.js.map",
-    "index.html": "/danielmason89/reviews-react-use-effect-practise.git/index.html",
-    "precache-manifest.20be6fc3223e192b460322f577e6ebeb.js": "/danielmason89/reviews-react-use-effect-practise.git/precache-manifest.20be6fc3223e192b460322f577e6ebeb.js",
-    "service-worker.js": "/danielmason89/reviews-react-use-effect-practise.git/service-worker.js",
-    "static/css/main.684b11a9.chunk.css.map": "/danielmason89/reviews-react-use-effect-practise.git/static/css/main.684b11a9.chunk.css.map",
-    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/danielmason89/reviews-react-use-effect-practise.git/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+    "main.css": "/reviews-react-use-effect-practise/static/css/main.684b11a9.chunk.css",
+    "main.js": "/reviews-react-use-effect-practise/static/js/main.03b7e9a0.chunk.js",
+    "main.js.map": "/reviews-react-use-effect-practise/static/js/main.03b7e9a0.chunk.js.map",
+    "runtime-main.js": "/reviews-react-use-effect-practise/static/js/runtime-main.f3b29e62.js",
+    "runtime-main.js.map": "/reviews-react-use-effect-practise/static/js/runtime-main.f3b29e62.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/reviews-react-use-effect-practise/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/reviews-react-use-effect-practise/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/reviews-react-use-effect-practise/index.html",
+    "precache-manifest.d5c43224b359ad306b9a984112aeaccd.js": "/reviews-react-use-effect-practise/precache-manifest.d5c43224b359ad306b9a984112aeaccd.js",
+    "service-worker.js": "/reviews-react-use-effect-practise/service-worker.js",
+    "static/css/main.684b11a9.chunk.css.map": "/reviews-react-use-effect-practise/static/css/main.684b11a9.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/reviews-react-use-effect-practise/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.221fab4c.js",
+    "static/js/runtime-main.f3b29e62.js",
     "static/js/2.bdbc782b.chunk.js",
     "static/css/main.684b11a9.chunk.css",
     "static/js/main.03b7e9a0.chunk.js"
